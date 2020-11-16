@@ -9,7 +9,7 @@ gem 'pg'
 
 gem 'json'
 
-gem 'rake', '10.0.3'
+gem 'rake', '12.3.3'
 
 # Gems used only for assets and not required
 # in production environments by default.
